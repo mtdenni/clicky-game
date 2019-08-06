@@ -47,7 +47,7 @@ No Installation is required.
 
 ## Contact
 Michael Dennison - [LinkedIn](https://linkedin.com/in/michaeltdennison) - miketdennison@gmail.com  
-Project Link: [https://github.com/miketdennison/friendfinder](https://github.com/miketdennison/click-game)
+Project Link: [https://github.com/miketdennison/clicky-game](https://github.com/miketdennison/clicky-game)
 
 
 ## Acknowledgements
