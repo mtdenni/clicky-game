@@ -54,4 +54,4 @@ Project Link: [https://github.com/miketdennison/friendfinder](https://github.com
 * [npm](https://www.npmjs.com/)
 
 <!-- IMAGES -->
-[example]: ./screenshots/clickgame.gif
+[example]: ./screenshots/clickygame.gif
