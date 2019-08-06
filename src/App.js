@@ -36,7 +36,7 @@ class App extends Component {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="mx-auto collapse navbar-collapse" id="navbarText">
-            <span className="mx-auto navbar-text">
+            <span className="text-danger mx-auto navbar-text">
               {this.state.lose}
             </span>
           </div>

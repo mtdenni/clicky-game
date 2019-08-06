@@ -12,7 +12,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
+Clicky Game is a memory game. You click an image of a cat, and then continue to click more images of cats. But here's the CAT-ch: you can't click an image more than once. Good luck!
 
 ### Built With
 * HTML
@@ -47,7 +47,7 @@ No Installation is required.
 
 ## Contact
 Michael Dennison - [LinkedIn](https://linkedin.com/in/michaeltdennison) - miketdennison@gmail.com  
-Project Link: [https://github.com/miketdennison/friendfinder](https://github.com/miketdennison/friendfinder)
+Project Link: [https://github.com/miketdennison/friendfinder](https://github.com/miketdennison/click-game)
 
 
 ## Acknowledgements
